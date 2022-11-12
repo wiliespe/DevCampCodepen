@@ -1,0 +1,32 @@
+@media (max-width: 615px) {
+    .container-navigation {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .column-center {
+        margin-bottom: 10px;
+    }
+
+    .hero-bg {
+        display: block;
+        height: auto;
+        text-align: center;
+    }
+
+    .section-hero {
+        margin-bottom: auto;
+    }
+
+    .section-footer {
+        display: block;
+    }
+
+    .hero-bg img {
+        width: 300px;
+    }
+
+    .hero-img {
+        text-align: center;
+    }
+}
